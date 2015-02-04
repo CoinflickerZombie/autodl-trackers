@@ -24,9 +24,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <trackerinfo
-	type="tti"
-	shortName="TTi"
-	longName="TTi"
+	type="ti"
+	shortName="Ti"
+	longName="Ti"
 	siteName="theinternationals.nu">
 
 	<settings>
@@ -45,8 +45,8 @@
 
 	<parseinfo>
 		<linepatterns>
-			<!--New Torrent: Wall.Street.2.Money.Never.Sleeps.2010.720p.BluRay.x264.DTS-HDChina | http://www.tti.nu/details.php?id=126478 | Size: 6.60 GB-->
-			<!--New Torrent: [Ryuumaru] MM! - 08v0 [6BD6D172].mkv | http://www.tti.nu/details.php?id=126476 | Size: 260.92 MB-->
+			<!--New Torrent: Wall.Street.2.Money.Never.Sleeps.2010.720p.BluRay.x264.DTS-HDChina | http://theinternationals.nu/details.php?id=126478 | Size: 6.60 GB-->
+			<!--New Torrent: [Ryuumaru] MM! - 08v0 [6BD6D172].mkv | http://theinternationals.nu/details.php?id=126476 | Size: 260.92 MB-->
 			<extract>
 				<regex value="^(?:New Torrent|Request filled):(.*)\| https?\:\/\/([^\/]+\/).*[&amp;\?]id=(\d+)[^\|]*\| Size:(.*)"/>
 				<vars>
